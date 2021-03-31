@@ -1,2 +1,3 @@
-# vs-code-colour-theme
-This is a vscode extension colour theme giving us different type of look. This gives us a diffferent look to us.
+This is vscode extension for colour themes.
+
+This is just a simple couluer theme where you will notice a unique colour for each thing which you type.
