@@ -1,0 +1,29 @@
+{
+    "name": "demo-theme",
+    "displayName": "demo-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Rahul",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RAHULASHWIN/vs-code-colour-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "demo theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/demo theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^1.87.0"
+    }
+}
