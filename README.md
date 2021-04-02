@@ -8,6 +8,6 @@ This is just a simple couluer theme where you will notice a unique colour for ea
 
 Steps to follow:
 
- (1) First clone the repository
- (2) Then npm install demo-theme-0.0.1
- (3) Now you can use my theme in your code
+ (1) First clone the repository<br />
+ (2) Then npm install demo-theme-0.0.1<br />
+ (3) Now you can use my theme in your code<br />
